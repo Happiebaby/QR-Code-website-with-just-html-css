@@ -1,0 +1,48 @@
+
+* {
+	background-color:white;
+	
+}
+
+body {
+	background-color: hsl(212, 45%, 89%) ;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin: 0 auto;
+	padding: 25px;
+	width: 270px;
+	height: 500px;
+	margin-top: 20px;
+	border: 100px;
+}
+
+.project {
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px;
+	background-color: white;
+	width: 240px;
+	border-radius: 15px;
+	border: 500px;
+	margin-top: 20px;
+}
+
+img {
+	background-color: hsl(218, 44%, 22%);
+    border-radius: 5px;
+}
+
+.words { 
+	text-align: center;
+}
+
+p {
+	color: hsl(220, 15%, 55%);
+	font-size: 15px;
+}
+
+p:hover {
+	background-color: lime;
+}
+
+.firstline {
+	font-size: 20px;
